@@ -10,7 +10,7 @@
 
 ## Screeshots
 
-![Screenshot](screenshot/modal_dialogue_with_embed_form.png)
+![Alt text](screenshots/modal_dialogue_with_embed_form.png?raw=true 'Title')
 
 ## Getting Started
 
