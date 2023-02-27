@@ -8,6 +8,10 @@
 6. Maximise button
 7. State is saved in the localstore
 
+## Screeshots
+
+![Screenshot](screenshot/modal_dialogue_with_embed_form.png)
+
 ## Getting Started
 
 Install app
@@ -21,7 +25,7 @@ Run the development server:
 ```bash
 npm run start
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
