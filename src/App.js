@@ -78,7 +78,7 @@ function App() {
   return (
     <>
       <div className="container-fluid p-5">
-        <h2>Simple and reausable React Modal Dialogue created using Bootstrap</h2>
+        <h2>Simple and reusable React Modal Dialogue created using Bootstrap</h2>
         <ul>
           <li>Customisable icon</li>
           <li>Customisable toolbar</li>
