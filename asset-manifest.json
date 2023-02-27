@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-modal-dialogue/static/js/main.171718ae.js",
-    "index.html": "/react-modal-dialogue/index.html",
-    "main.171718ae.js.map": "/react-modal-dialogue/static/js/main.171718ae.js.map"
+    "main.js": "/modal-dialogue/static/js/main.171718ae.js",
+    "index.html": "/modal-dialogue/index.html",
+    "main.171718ae.js.map": "/modal-dialogue/static/js/main.171718ae.js.map"
   },
   "entrypoints": [
     "static/js/main.171718ae.js"
