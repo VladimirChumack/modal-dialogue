@@ -8,9 +8,11 @@
 6. Maximise button
 7. State is saved in the localstore
 
-## Screeshots
+## Screenshots
 
-![Alt text](screenshots/modal_dialogue_with_embed_form.png?raw=true 'Title')
+![Embeded form](screenshots/modal_dialogue_with_embed_form.png?raw=true 'Embeded form')
+![Monaco editor](screenshots/modal_dialogue_with_embed_monaco_editor.png?raw=true 'Monaco editor')
+![Embeded table](screenshots/modal_dialogue_with_embed_table.png?raw=true 'Embeded table')
 
 ## Getting Started
 
