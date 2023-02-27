@@ -10,9 +10,9 @@
 
 ## Screenshots
 
-![Embeded form](screenshots/modal_dialogue_with_embed_form.png?raw=true 'Embeded form')
-![Monaco editor](screenshots/modal_dialogue_with_embed_monaco_editor.png?raw=true 'Monaco editor')
-![Embeded table](screenshots/modal_dialogue_with_embed_table.png?raw=true 'Embeded table')
+![Embeded form](screenshots/modal_dialogue_with_embeded_form.png?raw=true 'Embeded form')
+![Monaco editor](screenshots/modal_dialogue_with_embeded_monaco_editor.png?raw=true 'Monaco editor')
+![Embeded table](screenshots/modal_dialogue_with_embeded_table.png?raw=true 'Embeded table')
 
 ## Getting Started
 
