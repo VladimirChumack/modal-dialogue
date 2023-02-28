@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types'
+
 function CloseButton({ props }) {
   const { onClose } = props
 
@@ -10,4 +12,11 @@ function CloseButton({ props }) {
     </>
   )
 }
+
+CloseButton.propTypes = {
+  props: PropTypes.shape({
+    onClose: PropTypes.func.isRequired,
+  }),
+}
+
 export default CloseButton

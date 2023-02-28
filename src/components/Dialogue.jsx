@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types'
+
 // Hooks
 
 import { useStickyState } from '../hooks'
@@ -44,4 +46,19 @@ function Dialogue({ props }) {
     </div>
   )
 }
+
+Dialogue.propTypes = {
+  props: PropTypes.shape({
+    id: PropTypes.string.isRequired,
+    isLoading: PropTypes.bool,
+    icon: PropTypes.string,
+    title: PropTypes.string,
+    toolbar: PropTypes.string,
+    body: PropTypes.string,
+    footer: PropTypes.string,
+    onSave: PropTypes.func.isRequired,
+    onClose: PropTypes.func.isRequired,
+  }),
+}
+
 export default Dialogue

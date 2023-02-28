@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types'
+
 function SaveCancel({ props }) {
   const { onSave, onCancel } = props
 
@@ -13,5 +15,12 @@ function SaveCancel({ props }) {
       </button>
     </>
   )
+}
+
+SaveCancel.propTypes = {
+  props: PropTypes.shape({
+    onSave: PropTypes.func.isRequired,
+    onCancel: PropTypes.func.isRequired,
+  }),
 }
 export default SaveCancel

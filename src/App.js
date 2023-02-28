@@ -91,14 +91,14 @@ function App() {
         <p>Click on the button below to see the dialogue</p>
       </div>
       <div className="container-fluid pt-5" align="center">
-        <div class="btn-group" role="group">
-          <button type="button" class="btn btn-primary" onClick={() => setShowDialogue('dialogue1')}>
+        <div className="btn-group" role="group">
+          <button type="button" className="btn btn-primary" onClick={() => setShowDialogue('dialogue1')}>
             Dialogue 1
           </button>
-          <button type="button" class="btn btn-primary" onClick={() => setShowDialogue('dialogue2')}>
+          <button type="button" className="btn btn-primary" onClick={() => setShowDialogue('dialogue2')}>
             Dialogue 2
           </button>
-          <button type="button" class="btn btn-primary" onClick={() => setShowDialogue('dialogue3')}>
+          <button type="button" className="btn btn-primary" onClick={() => setShowDialogue('dialogue3')}>
             Dialogue 3
           </button>
         </div>
