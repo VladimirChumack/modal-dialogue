@@ -88,9 +88,9 @@ function App() {
           <li>Maximise button</li>
           <li>State is saved in the localstore</li>
         </ul>
-        <p>Click on the button below to see the dialogue</p>
       </div>
       <div className="container-fluid pt-5" align="center">
+        <p>Click on the button below to see the dialogue</p>
         <div className="btn-group" role="group">
           <button type="button" className="btn btn-primary" onClick={() => setShowDialogue('dialogue1')}>
             Dialogue 1
